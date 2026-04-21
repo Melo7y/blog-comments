@@ -1,2 +1,11 @@
-# blog-comments
-💬Comments for my Hugo blog (blog.vzfk.me) powered by giscus (GitHub Discussions)
+# Blog Comments
+
+This repository is used as the comment backend for my blog.
+
+Powered by:
+
+- giscus
+
+- GitHub Discussions
+
+🚫 Do not open issues here.
